@@ -24,7 +24,7 @@ Aos.init(
            Meet Your new car
         </span>
         <h1 className='homeTitle'>
-          Honda Civic Type R
+          Mercedes-Benz
         </h1>
         <div className="btns flex">
           <button data-aos= 'fade-right' className ="btn"> More Details</button>

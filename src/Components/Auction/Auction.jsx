@@ -31,7 +31,7 @@ const Auction = () => {
       <div className="secContainer container">
          <div data-aos= 'fade-up' className="secHeading flex">
            <h3 className="secTitle">
-             Active auction
+             Active auction1 
            </h3>
              <div className="navBtns flex">
               <BsArrowLeftShort className="icon leftIcon"/>
